@@ -122,6 +122,11 @@ a {
         -webkit-transform: translateY(-8px) rotate(-45deg);
         transform: translateY(-8px) rotate(-45deg);
     }
+    .header{
+        position: fixed; 
+         top: 0; 
+         width: 100%;
+    }
 }
 /* NAVBAR*/
 
